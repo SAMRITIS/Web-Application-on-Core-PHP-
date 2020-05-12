@@ -1,6 +1,7 @@
 # Web-Application-on-Core-PHP-
 
 How to run Web Application
+
 Step-1
 
 First install Xampp or Wampp localhost Server to run PHP code beacause PHP is server side scripting language which run on server only so we need localhost or any host to serve the PHP code 
