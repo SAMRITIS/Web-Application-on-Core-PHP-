@@ -4,6 +4,8 @@ It is Web application written in core Php, Mysql, Javascript, Html, Css.
 It is web application for Alumni Management Portal for a University.
 In which any student can register himself by going on register option in index.html and simply login.
 Admin or Professer can see how many student has been registred in each depatment in table format Admin can login from member button in index.html and write Id- SAURABH & PASSWORD-123456 & login and choose department and search list of students.
+
+
 How to run Web Application
 
 Step-1
